@@ -1,13 +1,13 @@
-/* 
-========================================= 
-========================================= 
+/*
+=========================================
+=========================================
 
    Bootstrapious Under Construction Template
 
-========================================= 
+=========================================
 ========================================= */
 /*
-* 
+*
 * =====================
 * GENERAL
 * =====================
@@ -21,7 +21,7 @@
 
 .intro-right {
   min-height: 500px;
-  background: url("../img/pexels-photo-40120.jpg") center center no-repeat;
+  background: url("../img/pexels-photo-40120.jpg") no-repeat;
   background-size: cover;
 }
 
@@ -142,17 +142,17 @@ STYLE SWITCHER FOR DEMO
   color: #495057;
 }
 
-/* ========================================= 
-   
-      THEMING OF THE BOOTSTRAP COMPONENTS           
+/* =========================================
 
-   ========================================= 
-   
+      THEMING OF THE BOOTSTRAP COMPONENTS
+
+   =========================================
+
     3 - TYPE
-    
+
 */
 /*
- * 3. TYPE  
+ * 3. TYPE
  */
 body {
   font-family: Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
